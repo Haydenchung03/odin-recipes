@@ -3,9 +3,30 @@
     color: red;
 }
 
-
-
-.btnopptions {
+.btnoptions {
     background-color: whitesmoke;
     font-size: 20px
 }
+
+.ftitle {
+    color: blue;
+    text-align: center;
+}
+
+.ustitle {
+    color: rgb(128, 26, 0);
+
+}
+
+.ostitle {
+    color: yellowgreen;
+}
+
+.ullist {
+    color: rgb(255, 0, 234);
+}
+
+.ollist {
+    color: rgb(224, 168, 64);
+}
+
